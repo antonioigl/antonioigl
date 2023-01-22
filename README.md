@@ -9,9 +9,9 @@ I am a Computer Science Engineer with more than three years of working experienc
 
 <p align="left">
 
-<a href="https://github.com/antonioigl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/antonio-iglesias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/antonio-iglesias" height="30" width="40" /></a>
-<a href="https://antonioigl.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30" width="40" /></a>
+<a href="https://github.com/antonioigl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antonio-iglesias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/antonio-iglesias" height="30" width="40" /></a>
+<a href="https://antonioigl.github.io" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
