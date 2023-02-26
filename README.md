@@ -1,7 +1,7 @@
 
 # Hi, I'm Antonio 👋
 
-I am a Computer Science Engineer with more than three years of working experience, currently working as a Web Developer. I am enthusiastic, responsible and a fast learner with special attention to details. Open to learn and implement new technologies.
+I am a Computer Science Engineer with more than five years of working experience, currently working as a Web Developer. I am enthusiastic, responsible and a fast learner with special attention to details. Open to learn and implement new technologies.
 
 ## Languages and Tools:
 
